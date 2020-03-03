@@ -1,0 +1,8 @@
+* What is it (or supposed to be)? 
+Initially, this was supposed to be a bot for notifications of upcoming events at the university and the schedule of classes.
+
+* What should i know about it?
+It has a lot of bugs and spaghetti code, but it works (or used to work) ^_^
+
+* Is this code supported?
+NO
