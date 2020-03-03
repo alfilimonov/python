@@ -4,7 +4,7 @@ Initially, this was supposed to be a bot for notifications of upcoming events at
 ** What should i know about it?
 It has a lot of bugs and spaghetti code, but it works (or used to work) ^_^
 
-But don't judge me. Seriously, it's a bit modified version of a code of a 18-year old guy without higher education --(me)--. 
+But don't judge me. Seriously, it's a bit modified version of a code of a 18-year old guy without higher education. 
 
 ** Is this code supported?
 NO
